@@ -1,17 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rucwyf/rucwyf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
 ![Image](https://user-images.githubusercontent.com/32222392/47916739-26d0e680-dee2-11e8-9926-065f0c608a62.jpg)
 
+## Email
+wyf0715@ruc.edu.cn
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Education
+ · 2016-2020, B.S., Statistics, RUC, China
+ · 2013-2016, RDFZ, China
+ 
+## Research Interests
+ · Data Science 
+ · Risk Quantification
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Other Interests
+ · Basketball
+ · Volleyball

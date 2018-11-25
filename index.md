@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-[Image](https://user-images.githubusercontent.com/32222392/47916739-26d0e680-dee2-11e8-9926-065f0c608a62.jpg)
+![Image](https://user-images.githubusercontent.com/32222392/47916739-26d0e680-dee2-11e8-9926-065f0c608a62.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

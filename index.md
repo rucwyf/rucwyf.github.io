@@ -5,12 +5,15 @@ wyf0715@ruc.edu.cn
 
 ## Education
  · 2016-2020, B.S., Statistics, RUC, China
+ 
  · 2013-2016, RDFZ, China
  
 ## Research Interests
- · Data Science 
+ · Data Science
+ 
  · Risk Quantification
 
 ## Other Interests
  · Basketball
+ 
  · Volleyball

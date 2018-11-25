@@ -4,14 +4,10 @@ You can use the [editor on GitHub](https://github.com/rucwyf/rucwyf.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 
 [Image](https://user-images.githubusercontent.com/32222392/47916739-26d0e680-dee2-11e8-9926-065f0c608a62.jpg)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

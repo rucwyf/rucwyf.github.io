@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 
-[Image](src)
+[Image](https://user-images.githubusercontent.com/32222392/47916739-26d0e680-dee2-11e8-9926-065f0c608a62.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
